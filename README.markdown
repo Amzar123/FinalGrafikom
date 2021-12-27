@@ -1,5 +1,6 @@
 ## GL Tanks
 ### A simple 3D tank game
+### Kelompok 2
 
 Controls
 --------
